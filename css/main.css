@@ -847,7 +847,7 @@ transition: 0.3s;
     transform: translateX(-50%);
     background-color: var(--main-color);
 }
-.pricing .plan .footer a{
+.pricing .plan .foot a{
     display: block;
     padding: 10px 20px;
     text-decoration: none;
